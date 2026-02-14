@@ -4,7 +4,7 @@ Udacity Machine Learning Engineer capstone project proposal for the Arvato/Berte
 
 ## Proposal
 
-The proposal is in `proposal.md` and covers all seven rubric points:
+The proposal is in `proposal.pdf` and covers all seven rubric points:
 
 1. Domain Background  
 2. Problem Statement  
