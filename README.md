@@ -12,8 +12,6 @@ Use demographic data from existing customers and the general population to ident
 
 ## Submission Checklist
 
-Before submitting, ensure you have:
-
 | Required | File | Notes |
 |----------|------|--------|
 | ✓ | **proposal.pdf** | From `proposal.md`. Generate: `pandoc proposal.md -o proposal.pdf` |
@@ -22,7 +20,6 @@ Before submitting, ensure you have:
 | ✓ | **README** | This file (software, libraries, setup instructions) |
 | ✓ | **Data** | Too large to include; obtain from Udacity Bertelsmann Capstone (see Data section below) |
 
-Include your proposal review link in the student submission notes if applicable.
 
 ---
 
