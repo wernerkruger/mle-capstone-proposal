@@ -1,4 +1,8 @@
-*.txt
+# Data (large, obtain from Udacity)
 data/
-proposal.md
-src/
+
+# Generated output
+kaggle_submission.csv
+
+# Optional
+*.txt
